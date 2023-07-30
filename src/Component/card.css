@@ -1,0 +1,29 @@
+.boxx{
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    background: #000000;
+    width: fit-content;
+    padding:50px;
+    border-radius: 30px;
+}
+.Date{
+    border: 2px solid #c3ff00;
+    border-radius:40px;
+    background: #000;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.text{
+    text-align: center;
+    color: #c3ff00;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    
+}
+.t{
+    font-size: 50px;
+    letter-spacing: 8px;
+}
